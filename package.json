@@ -1,0 +1,9 @@
+{
+  "name": "plugin-silence-pnp",
+  "version": "1.0.0",
+  "description": "Yarn plugin to silence PnP undeclared dependency warnings when running scripts in Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/carlosdp/plugin-silence-pnp.git",
+  "author": "Carlos Diaz-Padron",
+  "license": "MIT"
+}
